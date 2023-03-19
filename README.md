@@ -15,7 +15,7 @@ Welcome to my little piece of GitHub!
 ![Blazor](https://img.shields.io/badge/Blazor-7B42BC?logo=blazor&logoColor=white&style=for-the-badge)
 ![JAMstack](https://img.shields.io/badge/-JAMstack-F7DF1E?style=for-the-badge&logo=JAMstack&logoColor=black)
 ![AzureDevOps](https://img.shields.io/badge/azure_devops-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-4285F4?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)
+![SQL Server](https://img.shields.io/badge/SQL_Server-4285F4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-7B42BC?logo=visual%20studio&logoColor=white&style=for-the-badge)
