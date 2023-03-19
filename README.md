@@ -35,7 +35,6 @@ Welcome to my little piece of GitHub!
 You can find me at:
 
 [![site](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge) ](https://eduflornet.wordpress.com) 
-[![Twitter](https://img.shields.io/twitter/follow/eduflornet?style=for-the-badge)]()
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduflornet)](https://www.linkedin.com/in/eduflornet)
 
 
