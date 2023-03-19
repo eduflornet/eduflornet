@@ -1,16 +1,43 @@
-### Hi there 👋
+Welcome to my little piece of GitHub!
 
-<!--
-**eduflornet/eduflornet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩🏼‍💻 &nbsp;I know a little about... 
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-5391FE?logo=typescript&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/graphql-7B42BC?logo=graphql&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![NET6](https://img.shields.io/badge/NET6-7B42BC?logo=dotnet&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-3776AB?logo=react&logoColor=white&style=for-the-badge)
+![CSharp](https://img.shields.io/badge/-CSharp-339933?style=for-the-badge&logo=csharp&logoColor=white)
+![JAMstack](https://img.shields.io/badge/-JAMstack-F7DF1E?style=for-the-badge&logo=JAMstack&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visualstudio-7B42BC?logo=visualstudio&logoColor=white&style=for-the-badge)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/linux-3776AB?logo=linux&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduflornet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduflornet&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+</p>
+
+### ✉️  &nbsp;Contact 
+
+You can find me at:
+
+[![site](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge) ](https://eduflornet.wordpress.com) 
+![Twitter](https://img.shields.io/twitter/follow/eduflornet?style=for-the-badge)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduflornet)](https://www.linkedin.com/in/eduflornet)
+
+
+<div align="right">
+
+![](https://visitor-badge.glitch.me/badge?page_id=eduflornet)
+</div>
+
