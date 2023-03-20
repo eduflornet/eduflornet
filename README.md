@@ -1,20 +1,21 @@
 Welcome to my GitHub!
 
-### &nbsp;I know a little about... 
+Passionate about software. I've affinity for
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-5391FE?logo=typescript&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/graphql-7B42BC?logo=graphql&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-3776AB?logo=react&logoColor=white&style=for-the-badge)
 </br>
 ![ASP.NETCore](https://img.shields.io/badge/ASP.NET_Core-7B42BC?logo=dotnet&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
-![NET6](https://img.shields.io/badge/NET6-7B42BC?logo=dotnet&logoColor=white&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/-CSharp-339933?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/react-3776AB?logo=react&logoColor=white&style=for-the-badge)
-![Blazor](https://img.shields.io/badge/Blazor-7B42BC?logo=blazor&logoColor=white&style=for-the-badge)
+![NET6](https://img.shields.io/badge/NET6-7B42BC?logo=dotnet&logoColor=white&style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-7B42BC?logo=dotnet&logoColor=white&style=for-the-badge)
 ![JAMstack](https://img.shields.io/badge/-JAMstack-F7DF1E?style=for-the-badge&logo=JAMstack&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-7B42BC?logo=blazor&logoColor=white&style=for-the-badge)
 </br>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0078D4?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
