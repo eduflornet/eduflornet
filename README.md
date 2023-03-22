@@ -40,7 +40,7 @@ Passionate about software. I've affinity for
 
 You can find me at:
 
-[![site](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge) ](https://eduflornet.wordpress.com) 
+[![site](https://img.shields.io/badge/blog-E4405F?logo=wordpress&logoColor=white&style=for-the-badge) ](https://eduflornet.wordpress.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduflornet)](https://www.linkedin.com/in/eduflornet)
 
 
