@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-Passionate about software. I've affinity for
+I consider myself a passionate and pragmatic engineer who loves building robust, resilient and scalable software. I am Azure Developer Associate, MCSD App Builder SharePoint and Web Applications Certified. My affinity extends to technologies such as
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,9 @@ Passionate about software. I've affinity for
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-527FFF?style=for-the-badge&logo=bicep&logoColor=white)
 ![Azure API Management](https://img.shields.io/badge/Azure_API_Management-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -32,7 +34,6 @@ Passionate about software. I've affinity for
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
  
 
 ### My stats
