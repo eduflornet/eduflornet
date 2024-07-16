@@ -26,6 +26,7 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-527FFF?style=for-the-badge&logo=bicep&logoColor=white)
 ![Azure API Management](https://img.shields.io/badge/Azure_API_Management-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
