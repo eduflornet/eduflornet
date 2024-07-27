@@ -21,6 +21,7 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![.NET](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Dapr](https://img.shields.io/badge/Dapr-0078D4?style=for-the-badge&logo=dapr&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
