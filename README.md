@@ -32,6 +32,7 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![Bicep](https://img.shields.io/badge/Bicep-527FFF?style=for-the-badge&logo=bicep&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![containerd](https://img.shields.io/badge/containerd-444444?logo=containerd&logoColor=white&style=for-the-badge)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![helm](https://img.shields.io/badge/helm-0F1689?logo=helm&logoColor=white&style=for-the-badge)
 ![Kubernetes Event-driven Autoscaling](https://img.shields.io/badge/KEDA-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
