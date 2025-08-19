@@ -38,10 +38,6 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![Kubernetes Event-driven Autoscaling](https://img.shields.io/badge/KEDA-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![App Service](https://img.shields.io/badge/App_Service-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure Storage](https://img.shields.io/badge/Azure_Storage-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=prometheus&logoColor=white)
 
  
