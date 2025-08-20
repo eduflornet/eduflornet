@@ -26,6 +26,7 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=prometheus&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -38,7 +39,10 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![helm](https://img.shields.io/badge/helm-0F1689?logo=helm&logoColor=white&style=for-the-badge)
 ![Kubernetes Event-driven Autoscaling](https://img.shields.io/badge/KEDA-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=prometheus&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-0F1689?logo=istio&logoColor=white&style=for-the-badge)
+![Linkerd](https://img.shields.io/badge/Linkerd-0F1689?logo=linkerd&logoColor=white&style=for-the-badge)
+![Kong Mesh](https://img.shields.io/badge/Kong%20Mesh-0F1689?logo=kong&logoColor=white&style=for-the-badge)
+![Ambient Mesh](https://img.shields.io/badge/Ambient%20Mesh-0F1689?logo=istio&logoColor=white&style=for-the-badge)
 
 ### My stats
 
