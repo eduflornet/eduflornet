@@ -39,10 +39,11 @@ I consider myself a passionate and pragmatic engineer who loves building robust,
 ![helm](https://img.shields.io/badge/helm-0F1689?logo=helm&logoColor=white&style=for-the-badge)
 ![Kubernetes Event-driven Autoscaling](https://img.shields.io/badge/KEDA-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-0F1689?logo=istio&logoColor=white&style=for-the-badge)
-![Linkerd](https://img.shields.io/badge/Linkerd-0F1689?logo=linkerd&logoColor=white&style=for-the-badge)
-![Kong Mesh](https://img.shields.io/badge/Kong%20Mesh-0F1689?logo=kong&logoColor=white&style=for-the-badge)
-![Ambient Mesh](https://img.shields.io/badge/Ambient%20Mesh-0F1689?logo=istio&logoColor=white&style=for-the-badge)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white&style=for-the-badge)
+![Linkerd](https://img.shields.io/badge/Linkerd-2F2F2F?logo=linkerd&logoColor=white&style=for-the-badge)
+![Kong Mesh](https://img.shields.io/badge/Kong_Mesh-00A8E0?logo=kong&logoColor=white&style=for-the-badge)
+![Ambient Mesh](https://img.shields.io/badge/Ambient_Mesh-F97316?logo=istio&logoColor=white&style=for-the-badge)
+
 
 ### My stats
 
