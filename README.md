@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my GitHub!
 
-I consider myself a passionate and pragmatic engineer who loves building robust, resilient and scalable software. I am Kubernetes and Cloud Native Associate, Azure Developer Associate, MCSD App Builder SharePoint and Web Applications Certified. My affinity extends to technologies such as
+I am a passionate and pragmatic engineer who loves building robust, resilient and scalable software. I am Kubernetes and Cloud Native Associate, Azure Developer Associate, MCSD App Builder SharePoint and Web Applications Certified. My affinity extends to technologies such as
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
