@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my GitHub!
 
-I am a passionate and pragmatic engineer who loves building robust, resilient and scalable software. 🎯 I recently obtained the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional development and reaffirming my commitment to continuous learning and best practices in modern, distributed environments. 🛠️ I also hold the following certifications: Azure Developer Associate and MCSD App Builder (Web Applications & SharePoint Applications). My affinity extends to technologies such as: 
+I am a passionate and pragmatic engineer who loves building robust, resilient and scalable software. 🎯 I recently obtained the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional development and reaffirming my commitment to continuous learning and best practices in modern, distributed environments. 🛠️ My certifications also include: Azure Developer Associate and MCSD App Builder (Web Applications & SharePoint Applications). My affinity extends to technologies such as: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
