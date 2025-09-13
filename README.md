@@ -15,6 +15,8 @@ I am a passionate and pragmatic engineer who loves building robust, resilient an
 ![Linkerd](https://img.shields.io/badge/Linkerd-2F2F2F?logo=linkerd&logoColor=white&style=for-the-badge)
 ![Kong Mesh](https://img.shields.io/badge/Kong_Mesh-00A8E0?logo=kong&logoColor=white&style=for-the-badge)
 ![Ambient Mesh](https://img.shields.io/badge/Ambient_Mesh-F97316?logo=istio&logoColor=white&style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Dapr](https://img.shields.io/badge/Dapr-0078D4?style=for-the-badge&logo=dapr&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -26,6 +28,7 @@ I am a passionate and pragmatic engineer who loves building robust, resilient an
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,8 +36,7 @@ I am a passionate and pragmatic engineer who loves building robust, resilient an
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
