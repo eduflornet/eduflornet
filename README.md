@@ -1,6 +1,31 @@
-Hi there 👋 Welcome to my GitHub!
+👋 Hi there! Welcome to my GitHub
 
-I am a passionate and pragmatic engineer who loves building robust, resilient and scalable software. 🎯 I recently obtained the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional development and reaffirming my commitment to continuous learning and best practices in modern, distributed environments. 🛠️ My certifications also include: Azure Developer Associate and MCSD App Builder (Web Applications & SharePoint Applications). My affinity extends to technologies such as:
+I’m a passionate and pragmatic engineer focused on building robust, resilient and scalable software.
+I specialize in Cloud Native architectures, distributed systems and modern .NET development.
+
+Recently, I earned the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional growth and reinforcing my commitment to continuous learning and best practices in cloud-native environments.
+
+My certifications also include:
+
+Azure Developer Associate
+
+MCSD App Builder (Web Applications & SharePoint Applications)
+
+🔧 Tech interests
+I enjoy working with Kubernetes, containers, distributed messaging, event‑driven systems, CI/CD automation and modern .NET runtimes.
+
+🚀 What I’m focusing on now
+Cloud Native patterns
+
+Kubernetes ecosystem (AKS, Helm, KEDA, service meshes)
+
+Event‑driven architecture
+
+Observability and platform reliability
+
+Modern .NET (8/10) and backend engineering
+
+🛠️ Technologies I work with
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-527FFF?style=for-the-badge&logo=bicep&logoColor=white)
