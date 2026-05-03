@@ -6,24 +6,19 @@ I specialize in Cloud Native architectures, distributed systems and modern .NET 
 Recently, I earned the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional growth and reinforcing my commitment to continuous learning and best practices in cloud-native environments.
 
 My certifications also include:
-
-Azure Developer Associate
-
-MCSD App Builder (Web Applications & SharePoint Applications)
+- Azure Developer Associate
+- MCSD App Builder (Web Applications & SharePoint Applications)
 
 🔧 Tech interests
+
 I enjoy working with Kubernetes, containers, distributed messaging, event‑driven systems, CI/CD automation and modern .NET runtimes.
 
 🚀 What I’m focusing on now
-Cloud Native patterns
-
-Kubernetes ecosystem (AKS, Helm, KEDA, service meshes)
-
-Event‑driven architecture
-
-Observability and platform reliability
-
-Modern .NET (8/10) and backend engineering
+- Cloud Native patterns
+- Kubernetes ecosystem (AKS, Helm, KEDA, service meshes)
+- Event‑driven architecture
+- Observability and platform reliability
+- Modern .NET (8/10) and backend engineering
 
 🛠️ Technologies I work with
 
