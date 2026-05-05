@@ -20,7 +20,7 @@ I enjoy working with Kubernetes, containers, distributed messaging, event‑driv
 - Observability and platform reliability
 - Modern .NET (8/10) and backend engineering
 
-🛠️ Technologies I work with
+🛠️ Technologies I´m keen to learn
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-527FFF?style=for-the-badge&logo=bicep&logoColor=white)
