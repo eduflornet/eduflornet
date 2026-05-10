@@ -1,24 +1,15 @@
-👋 Hi there! Welcome to my GitHub
+👋 Hi, I'm Eduardo
 
-I’m a passionate and pragmatic engineer focused on building robust, resilient and scalable software.
-I specialize in Cloud Native architectures, distributed systems and modern .NET development.
+Software engineer with nearly ten years in the .NET ecosystem, currently making a deliberate move into product engineering. I care about systems that are built to last, not just to ship.
 
-Recently, I earned the KCNA – Kubernetes and Cloud Native Associate certification, marking a new stage in my professional growth and reinforcing my commitment to continuous learning and best practices in cloud-native environments.
+🔧 What you'll find here
+Mostly .NET practice projects, experiments with cloud-native patterns, and contributions to community resources I've used while learning. Nothing polished for show — just real work in progress.
 
-My certifications also include:
-- Azure Developer Associate
-- MCSD App Builder (Web Applications & SharePoint Applications)
+🛠️ What I'm working with
+.NET 8/10 · C# · ASP.NET Core · Kubernetes · Docker · Azure · Event-driven architecture · DDD · CQRS
 
-🔧 Tech interests
-
-I enjoy working with Kubernetes, containers, distributed messaging, event‑driven systems, CI/CD automation and modern .NET runtimes.
-
-🚀 What I’m focusing on now
-- Cloud Native patterns
-- Kubernetes ecosystem (AKS, Helm, KEDA, service meshes)
-- Event‑driven architecture
-- Observability and platform reliability
-- Modern .NET (8/10) and backend engineering
+📍 Where I'm headed
+Looking to join a product team where I can take real technical ownership and grow alongside strong engineers.
 
 🛠️ Technologies I´m keen to learn
 
